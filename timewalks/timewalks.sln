@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5E46E8F0-C0D5-16C7-C600-80A6ED736A1C}") = "timewalks", "Assembly-CSharp.csproj", "{3600EC28-799D-ACE6-6A43-6FBE28F5EB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3600EC28-799D-ACE6-6A43-6FBE28F5EB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3600EC28-799D-ACE6-6A43-6FBE28F5EB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3600EC28-799D-ACE6-6A43-6FBE28F5EB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3600EC28-799D-ACE6-6A43-6FBE28F5EB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
